@@ -1,7 +1,7 @@
 
 # Peer Graded Assignment 1
-## chinmoy149
-## February 11, 2018
+### chinmoy149
+### February 11, 2018
 ## Rubric for the Assignment
 The goal of this project is just to display that you've gotten used to working with the data
 and that you are on track to create your prediction algorithm.<br/>Please submit a report on R Pubs (http://rpubs.com/)
